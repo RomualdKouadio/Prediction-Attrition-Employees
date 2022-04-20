@@ -1,5 +1,8 @@
 # Prediction-Attrition-Employes
 
+![manager-sentiment-auto-efficacite-500x383](https://user-images.githubusercontent.com/101726242/164234940-abf813be-057b-4be8-8ba3-bcf0f1f339fb.jpg)
+
+
 L'attrition est le tueur silencieux qui peut rapidement désactiver même les organisations les plus performantes et les plus stables en un temps incroyablement court. L'embauche de nouveaux employés est une tâche extrêmement complexe qui nécessite du capital, du temps et des compétences. De plus, un nouvel employé coûte beaucoup plus cher que le salaire de la personne.
 
 Le coût d'embauche d'un employé va bien au-delà du simple paiement de son salaire pour englober le recrutement, la formation, les avantages sociaux, etc.
