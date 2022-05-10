@@ -1,4 +1,4 @@
-# Prediction-Attrition-Employes
+# Prediction-Attrition-Employees
 
 ![manager-sentiment-auto-efficacite-500x383](https://user-images.githubusercontent.com/101726242/164234940-abf813be-057b-4be8-8ba3-bcf0f1f339fb.jpg)
 
